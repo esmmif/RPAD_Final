@@ -1,4 +1,5 @@
 # Atividade Final - Reconhecimento de Padrões (2025.2)
+### Aluno: Iuri Aragão Esmeraldo
 
 Este repositório contém a resolução da lista de exercícios referente à avaliação final da disciplina de Reconhecimento de Padrões. 
 O trabalho foca na aplicação prática de algoritmos de Machine Learning, especificamente utilizando a biblioteca XGBoost para resolver problemas de regressão, classificação multiclasse, tratamento de dados desbalanceados e persistência de modelos.
